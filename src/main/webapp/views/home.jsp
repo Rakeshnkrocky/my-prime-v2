@@ -54,7 +54,7 @@
                         <div class="content-card">
                             <div class="content-badge">Continue</div>
                             <img src="https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=400&auto=format&fit=crop" 
-                                 alt="The Rings of Power" class="content-image">
+                                 alt="Rakesh" class="content-image">
                             <div class="content-overlay">
                                 <div class="progress-container">
                                     <div class="progress-bar" style="width: 68%"></div>
